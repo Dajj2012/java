@@ -1,5 +1,8 @@
 public class Program {
     public static void main(String[] args) {
-        System.out.println("111");
+        int a = 3;
+        System.out.println(a);
+        a++;
+        System.out.println(a);
     }
 }
